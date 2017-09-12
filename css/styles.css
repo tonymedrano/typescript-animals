@@ -1,0 +1,21 @@
+div {
+    width: 350px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: #DF0174;
+    margin: 40px auto;
+    padding: 40px;
+    border-style: dotted;
+    border-color: #ccc;
+}
+span {
+    width: 350px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: #333;
+    margin: 10px auto;
+    padding: 10px;
+    border-style: dotted;
+    border-color: #ccc;
+    display: flex;
+}
